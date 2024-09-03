@@ -10,4 +10,4 @@ I'm Dharmil, a Computer Science and Engineering student at Sardar Vallabhbhai Na
 
 ### 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dharmil-halpati-347303326/)
-- (dharmilhalpatics12@gmail.com)
+- dharmilhalpatics12@gmail.com
