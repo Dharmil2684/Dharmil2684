@@ -1,70 +1,61 @@
-<!-- HEADER -->
-
 <h1 align="center">Hi 👋, I'm Dharmil Halpati</h1>
-<h3 align="center">Backend • Systems • Machine Learning</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharmil2684&label=Profile%20views&color=6366f1&style=flat" />
-</p>
+# 💫 About Me:
 
----
+### Backend • Systems • Machine Learning @ SVNIT Surat
 
-## 💫 About Me
-
-<p align="center">
-  🎓 CSE @ SVNIT Surat • ⚙️ Backend Systems • 🤖 ML & NLP • 🚀 HPC  
-</p>
+* ⚙️ Building scalable backend systems & infra
+* 🤖 Working with ML, NLP & deep learning
+* 🚀 Interested in HPC, distributed systems & performance
 
 ---
 
-## 🌐 Connect
+## 🌐 Socials:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dharmil-halpati-347303326/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:dharmilhalpatics12@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/dharmil-halpati-347303326/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+<a href="mailto:dharmilhalpatics12@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+</a>
 
 ---
 
-## ⚡ Tech Stack
+<h3>Programming Languages and Tools:</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,nodejs,express,nextjs,react,fastapi,pytorch,tensorflow,numpy,mysql,mongodb,aws,docker,git,github,linux,firebase" />
-</p>
+<!-- LANGUAGES -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MPI-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenMP-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNMP-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ICMP-111111?style=for-the-badge&logoColor=white" />
-</p>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
 
----
+<!-- BACKEND / WEB -->
 
-## 📊 GitHub Stats
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharmil2684&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil2684&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<!-- ML -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=numpy" width="40"/></a>
+
+<!-- DATABASE -->
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+
+<!-- DEVOPS / CLOUD -->
+
+<a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+
+<!-- TOOLS -->
+
+<a href="#"><img src="https://img.shields.io/badge/Prometheus-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/Grafana-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/Stripe-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/OAuth2-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/RBAC-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/SNMP-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/ICMP-black?style=flat-square"/></a>
+
+<!-- HPC -->
+
+<a href="#"><img src="https://img.shields.io/badge/MPI-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/OpenMP-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/CUDA-black?style=flat-square"/></a>
 
 ---
 
+# 📊 GitHub Stats:
+
 <p align="center">
-  <i>Systems • Performance • Scalability ⚡</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmil2684&theme=tokyonight&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil2684&theme=tokyonight"/>
 </p>
