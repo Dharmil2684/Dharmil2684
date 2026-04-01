@@ -46,6 +46,6 @@
 
 # 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmil2684&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 &nbsp;&nbsp;&nbsp;
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharmil2684&theme=dark)
