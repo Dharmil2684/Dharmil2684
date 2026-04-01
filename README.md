@@ -1,58 +1,52 @@
-<h1 align="center">Hi 👋, I'm Dharmil Halpati</h1>
+[cite_start]<h1 align="center">Hi 👋, I'm Dharmil Halpati [cite: 1]</h1>
 
 # 💫 About Me:
+### [cite_start]A passionate `Python Developer` [cite: 9] [cite_start]and a Computer Science & Engineering undergraduate at Sardar Vallabhbhai National Institute of Technology, Surat[cite: 4, 6].
 
-### A passionate `Backend & Systems Developer` and CSE undergraduate at SVNIT Surat.
-
-* 🔭 Building scalable backend systems & infrastructure <br/><br/>- 🌱 Exploring advanced **Machine Learning, NLP & HPC** <br/><br/>- 👯 Open to collaborate on backend, systems & ML projects <br/><br/>- 👨‍💻 All of my work is available at [github.com/Dharmil2684](https://github.com/Dharmil2684) <br/><br/>- 📫 Reach me at: [dharmilhalpatics12@gmail.com](mailto:dharmilhalpatics12@gmail.com)
+- [cite_start]🔭 I’m currently working as a Python Developer at UPNEXT SOFTWARE PRIVATE LIMITED [cite: 8, 9] and building a task manager application.
+<br/><br/>- 🌱 I’m currently learning **.NET** and **DevOps technologies**.
+[cite_start]<br/><br/>- 👯 I’m looking to **collaborate** on Backend Development, Machine Learning, and HPC projects[cite: 43].
+[cite_start]<br/><br/>- 👨‍💻 Check out my open-source contributions on my GitHub Profile[cite: 12].
+[cite_start]<br/><br/>- 📫 How to reach me: [dharmilhalpatics12@gmail.com](mailto:dharmilhalpatics12@gmail.com) [cite: 11]
 
 ## 🌐 Socials:
-
-<a href="https://www.linkedin.com/in/dharmil-halpati-347303326/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+<a href="https://linkedin.com/in/#" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-<a href="mailto:dharmilhalpatics12@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+<a href="mailto:dharmilhalpatics12@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
-
----
 
 <h3>Programming Languages and Tools:</h3>
+[cite_start]<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> [cite: 40]
+[cite_start]<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> [cite: 40]
+[cite_start]<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> [cite: 40]
+[cite_start]<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/></a>&thinsp; [cite: 40]
 
-<!-- LANGUAGES -->
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt=".net" width="40" height="40"/></a>&thinsp;
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>&thinsp;
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
+[cite_start]<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>&thinsp; [cite: 40]
+[cite_start]<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>&thinsp; [cite: 40]
+[cite_start]<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>&thinsp; [cite: 17]
+[cite_start]<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>&thinsp; [cite: 41]
 
-<!-- BACKEND / FRAMEWORKS -->
+[cite_start]<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>&thinsp; [cite: 41]
+[cite_start]<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express&theme=light" height="40" width="40" alt="express"/></a>&thinsp; [cite: 41]
+[cite_start]<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a>&thinsp; [cite: 17]
+[cite_start]<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>&thinsp; [cite: 41]
+[cite_start]<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" width="40" height="40"/> </a>&thinsp; [cite: 41]
 
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/></a>
+[cite_start]<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a>&thinsp; [cite: 41]
+[cite_start]<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>&thinsp; [cite: 41]
 
-<!-- ML -->
-
-<a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=numpy" width="40"/></a>
-
-<!-- DATABASE -->
-
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
-
-<!-- DEVOPS / CLOUD -->
-
-<a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-
-<!-- SYSTEMS / TOOLS -->
-
-<a href="#"><img src="https://img.shields.io/badge/Prometheus-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/Grafana-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/Stripe-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/OAuth2-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/RBAC-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/SNMP-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/ICMP-black?style=flat-square"/></a>
-
-<!-- HPC -->
-
-<a href="#"><img src="https://img.shields.io/badge/MPI-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/OpenMP-black?style=flat-square"/></a> <a href="#"><img src="https://img.shields.io/badge/CUDA-black?style=flat-square"/></a>
-
----
+[cite_start]<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>&thinsp; [cite: 18]
+[cite_start]<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> [cite: 42]
+[cite_start]<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" width="40" height="40"/></a>&thinsp; [cite: 42]
+[cite_start]<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/></a>&thinsp; [cite: 42]
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmil2684&theme=tokyonight&layout=compact"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil2684&theme=tokyonight"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+&nbsp;&nbsp;&nbsp;
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
