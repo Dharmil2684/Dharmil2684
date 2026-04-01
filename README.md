@@ -9,7 +9,7 @@
 <br/><br/>- 📫 How to reach me: [dharmilhalpatics12@gmail.com](mailto:dharmilhalpatics12@gmail.com)
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/#" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/dharmil-halpati-347303326/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 <a href="mailto:dharmilhalpatics12@gmail.com" target="_blank" rel="noreferrer">
@@ -39,6 +39,7 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a>&thinsp;
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>&thinsp;
 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>&thinsp;
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>&thinsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" width="40" height="40"/></a>&thinsp;
