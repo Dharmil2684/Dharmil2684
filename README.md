@@ -3,7 +3,6 @@
 # 💫 About Me:
 ### A passionate `Backend Developer` and a Computer Science & Engineering undergraduate at Sardar Vallabhbhai National Institute of Technology, Surat.
 
-- 🔭 I’m currently working as a Python Developer at UPNEXT SOFTWARE PRIVATE LIMITED.
 <br/><br/>- 🌱 I’m currently working with **.NET**, **ASP.NET**, **Azure Cosmos DB**, and **Azure Services** to build a full-stack task manager application.
 <br/><br/>- 👯 I’m looking to **collaborate** on Backend Development, Machine Learning, and HPC projects.
 <br/><br/>- 📫 How to reach me: [dharmilhalpatics12@gmail.com](mailto:dharmilhalpatics12@gmail.com)
