@@ -16,8 +16,7 @@
 </a>
 
 <h3>Programming Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
@@ -106,7 +105,8 @@
     <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/>
   </a>
 
-</div>
+</p>
+
 # 📊 GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmil2684&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
